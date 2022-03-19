@@ -15,6 +15,8 @@ This repo is used for Financial Reinforcement Learning paper review.
 
 ## Market Maker
 
+## Price Trailing
+
 ## Survey Paper
 
 + [Reinforcement learning in financial markets - a survey (2018)](https://www.semanticscholar.org/paper/Reinforcement-learning-in-financial-markets-a-Fischer/922864ede84bc49be4ac676951278a9b568b6383)
