@@ -4,8 +4,8 @@ This repo is used for Financial Reinforcement Learning paper review.
 
 ## Portforlio Management
 
-+ [A deep reinforcement learning framework for the financial portfolio management problem (2017)](https://arxiv.org/abs/1706.10059) [github page](https://github.com/ZhengyaoJiang/PGPortfolio)
-+ [Adversarial Deep Reinforcement Learning in Portfolio Management (2018)](https://arxiv.org/abs/1808.09940) [github page](https://github.com/tr8dr/Adversarial-PG)
++ [A deep reinforcement learning framework for the financial portfolio management problem (2017)](https://arxiv.org/abs/1706.10059) [[github page]](https://github.com/ZhengyaoJiang/PGPortfolio)
++ [Adversarial Deep Reinforcement Learning in Portfolio Management (2018)](https://arxiv.org/abs/1808.09940) [[github page]](https://github.com/tr8dr/Adversarial-PG)
 + [Model-based deep reinforcement learning for dynamic portfolio optimization (2019)](https://arxiv.org/abs/1901.08740)
 + [Using Reinforcement Learning in the Algorithmic Trading Problem (Journal of Communications Technology and Electronics, 2019)](http://smallake.kr/wp-content/uploads/2020/03/2002.11523.pdf)
 + [Deep Reinforcement Learning for Trading (2019)](https://arxiv.org/abs/1911.10107)
