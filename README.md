@@ -21,4 +21,4 @@ This repo is used for Financial Reinforcement Learning paper review.
 
 + Reinforcement learning in financial markets - a survey (2018)[[paper]](https://www.semanticscholar.org/paper/Reinforcement-learning-in-financial-markets-a-Fischer/922864ede84bc49be4ac676951278a9b568b6383)
 + Deep Reinforcement Learning in Quantitative  Algorithmic Trading: A Review (2021)[[paper]](https://arxiv.org/abs/2106.00123)
-+ Deep Reinforcement Learning for Trading—A Critical Survey (2020)[[paper]](https://www.mdpi.com/2306-5729/6/11/119)
++ Deep Reinforcement Learning for Trading—A Critical Survey (2021)[[paper]](https://www.mdpi.com/2306-5729/6/11/119)
